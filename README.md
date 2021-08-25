@@ -99,6 +99,6 @@ the [SEC542][01] webpage For additional information.
 
 Study Guide: <!--[Home](home), -->[Outline](outline), [Index](index), [Labs](labs), [Glossary](glossary), [Appendix](appendix) or [Cheatsheets](cheatsheets).
 
-<!-- Referenced External Links -->
+Referenced External Links
 
 [01]: https://www.sans.org/course/web-app-penetration-testing-ethical-hacking (SEC542: Web App Penetration Testing and Ethical Hacking)
